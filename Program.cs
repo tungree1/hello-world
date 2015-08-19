@@ -7,7 +7,7 @@ namespace Hello_C_sharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world {0}", 1);
-            Console.WriteLine("Implement featureA");
+            Console.WriteLine("Implement featureA rev1");
             Console.ReadKey();
         }
     }
